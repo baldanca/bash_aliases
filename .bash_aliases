@@ -51,7 +51,10 @@ alias shutdown='sudo /sbin/shutdown'
 
 # git #
 alias s='git status'
+alias add='git add'
+alias add.='add .'
 alias commit='git commit -m'
+alias push='git push'
 
 # other #
 alias untar='tar -zvxf'
